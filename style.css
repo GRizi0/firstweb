@@ -54,8 +54,8 @@ color: rgb(33, 137, 168);
     max-width: 600px;
 }
 .home-page h1{
-    font-size: 40px;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: 500;
     
 }
 .home-page h2{
@@ -144,3 +144,4 @@ color: rgb(236, 236, 240);
     color: rgb(19, 152, 230);
 
 }
+
